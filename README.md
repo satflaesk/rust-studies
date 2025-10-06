@@ -1,5 +1,8 @@
 | Resource | Completed&nbsp;On |
 | :--- | :---: |
+| [The Expression Problem and Rust](https://purplesyringa.moe/blog/the-expression-problem-and-rust/) | 2025-10-06 |
+| [Introducing Rust to the Automotive Stack: A Conversation With Julius Gustavsson of Volvo Cars](https://filtra.io/rust/interviews/volvo-sep-25) | 2025-10-05 |
+| [From Rust to Reality: The Hidden Journey of `fetch_max`](https://questdb.com/blog/rust-fetch-max-compiler-journey/) | 2025-10-04 |
 | [Rust Unit Testing: Built-In Tools](https://jorgeortiz.dev/posts/rust_unit_testing_tools_builtin/) | 2025-10-03 |
 | [Canceling Asynchronous Rust](https://lwn.net/Articles/1036924/) | 2025-10-02 |
 | [Comparing Rust to Carbon](https://lwn.net/Articles/1036912/) | 2025-10-01 |
