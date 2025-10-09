@@ -1,5 +1,9 @@
 | Resource | Completed&nbsp;On |
 | :--- | :---: |
+| [Level Up Your Rust Pattern Matching](https://blog.cuongle.dev/p/level-up-your-rust-pattern-matching) | 2025-10-09 |
+| [Under the Hood: `Vec<T>`](https://marma.dev/articles/2025/under-the-hood-vec-t) | 2025-10-08 |
+| [Functional Programming in Rust](https://kerkour.com/rust-functional-programming) | 2025-10-07 |
+| [Case Study: How Proton Uses Rust to Build Secure Cross-Platform Applications for Millions of People](https://kerkour.com/proton-apps-rust) | 2025-10-07 |
 | [The Expression Problem and Rust](https://purplesyringa.moe/blog/the-expression-problem-and-rust/) | 2025-10-06 |
 | [Introducing Rust to the Automotive Stack: A Conversation With Julius Gustavsson of Volvo Cars](https://filtra.io/rust/interviews/volvo-sep-25) | 2025-10-05 |
 | [From Rust to Reality: The Hidden Journey of `fetch_max`](https://questdb.com/blog/rust-fetch-max-compiler-journey/) | 2025-10-04 |
