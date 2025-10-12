@@ -1,5 +1,8 @@
 | Resource | Completed&nbsp;On |
 | :--- | :---: |
+| [Variadic Generics](https://www.wakunguma.com/blog/variadic-generics) | 2025-10-12 |
+| [The `Handle` Trait](https://smallcultfollowing.com/babysteps/blog/2025/10/07/the-handle-trait/) | 2025-10-11 |
+| [Linting Rust Code in the Kernel](https://lwn.net/Articles/1038750/) | 2025-10-10 |
 | [Level Up Your Rust Pattern Matching](https://blog.cuongle.dev/p/level-up-your-rust-pattern-matching) | 2025-10-09 |
 | [Under the Hood: `Vec<T>`](https://marma.dev/articles/2025/under-the-hood-vec-t) | 2025-10-08 |
 | [Functional Programming in Rust](https://kerkour.com/rust-functional-programming) | 2025-10-07 |
