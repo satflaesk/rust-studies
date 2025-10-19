@@ -1,5 +1,13 @@
 | Resource | Completed&nbsp;On |
 | :--- | :---: |
+| [RustConf 2025: Memory Safety Is Merely Table Stakes](https://youtu.be/cOP219vkax8?si=7DTern53Ypph8hT4) | 2025-10-19 |
+| [RustConf 2025: Vision Doc — The Next 10 Years of Rust](https://youtu.be/f0N3m8U0b2k?si=K2Aj_dcXuXrE-83A) | 2025-10-18 |
+| [Rust 2025: $400K Salaries, AI, Defense, and the Borrow Checker — Jon Gjengset on Rust and the Future of Coding](https://youtu.be/nOSxuaDgl3s?si=s0Jtpc8_J6S8L-TF) | 2025-10-18 |
+| [Generic Numeric Computations in Rust](https://michaelmauderer.com/blog/generic-numeric-computations/) | 2025-10-17 |
+| [Rust Unit Testing: Test Doubles and Stubs](https://jorgeortiz.dev/posts/rust_unit_testing_test_doubles_stub/) | 2025-10-16 |
+| [How to Automatically Profile Performance of Rust Applications](https://pawelurbanek.com/rust-optimize-performance) | 2025-10-15 |
+| [Real-Time Concurrency Primitives](https://blog.inkreas.ing/realtime-concurrency) | 2025-10-14 |
+| [Preventing Invalid Database Access at Compile Time](https://www.svix.com/blog/preventing-db-misuse-at-compile-time/) | 2025-10-13 |
 | [Variadic Generics](https://www.wakunguma.com/blog/variadic-generics) | 2025-10-12 |
 | [The `Handle` Trait](https://smallcultfollowing.com/babysteps/blog/2025/10/07/the-handle-trait/) | 2025-10-11 |
 | [Linting Rust Code in the Kernel](https://lwn.net/Articles/1038750/) | 2025-10-10 |
