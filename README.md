@@ -1,5 +1,14 @@
 | Resource | Completed&nbsp;On |
 | :--- | :---: |
+| [Rust Unit Testing: Spy and Dummy Test Doubles](https://jorgeortiz.dev/posts/rust_unit_testing_test_doubles_spy/) | 2025-10-25 |
+| [A Typed Evaluator in Rust](https://rvarago.github.io/typed-evaluator-in-rust/) | 2025-10-25 |
+| [`Move`, `Destruct`, `Forget`, and Rust](https://smallcultfollowing.com/babysteps/blog/2025/10/21/move-destruct-leak/) | 2025-10-25 |
+| [Everybody's So Creative!](https://daymare.net/blogs/everbody-so-creative/) | 2025-10-25 |
+| [Effects in Rust (And Koka)](https://aloso.foo/blog/2025-10-10-effects/) | 2025-10-24 |
+| [A Little Rust Trait Limitation](https://www.thecodedmessage.com/posts/rust-trait-limitation/) | 2025-10-23 |
+| [To Panic or Not to Panic](https://www.ncameron.org/blog/to-panic-or-not-to-panic/) | 2025-10-22 |
+| [Recursive Type State in Rust](https://www.jessestuart.ca/posts/2025-10-10-recursive-type-state-in-rust/) | 2025-10-21 |
+| [We Need (At Least) Ergonomic, Explicit Handles](https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/) | 2025-10-20 |
 | [RustConf 2025: Memory Safety Is Merely Table Stakes](https://youtu.be/cOP219vkax8?si=7DTern53Ypph8hT4) | 2025-10-19 |
 | [RustConf 2025: Vision Doc — The Next 10 Years of Rust](https://youtu.be/f0N3m8U0b2k?si=K2Aj_dcXuXrE-83A) | 2025-10-18 |
 | [Rust 2025: $400K Salaries, AI, Defense, and the Borrow Checker — Jon Gjengset on Rust and the Future of Coding](https://youtu.be/nOSxuaDgl3s?si=s0Jtpc8_J6S8L-TF) | 2025-10-18 |
