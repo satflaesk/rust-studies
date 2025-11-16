@@ -1,5 +1,7 @@
 | Resource | Completed&nbsp;On |
 | :--- | :---: |
+| [Rust Atomics and Locks](https://marabos.nl/atomics/) | 2025-11-16 |
+| [EuroRust 2025: Rewrite, Optimize, Repeat — Our Journey Porting a TrieMap From C to Rust](https://youtu.be/XklFGy3aUX4?si=d2kTZC5XfE6Kun2x) | 2025-11-09 |
 | [Rust Unit Testing: Spy and Dummy Test Doubles](https://jorgeortiz.dev/posts/rust_unit_testing_test_doubles_spy/) | 2025-10-25 |
 | [A Typed Evaluator in Rust](https://rvarago.github.io/typed-evaluator-in-rust/) | 2025-10-25 |
 | [`Move`, `Destruct`, `Forget`, and Rust](https://smallcultfollowing.com/babysteps/blog/2025/10/21/move-destruct-leak/) | 2025-10-25 |
