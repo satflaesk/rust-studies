@@ -1,5 +1,17 @@
 | Resource | Completed&nbsp;On |
 | :--- | :---: |
+| [Rust Unit Testing: Assertion Libraries](https://jorgeortiz.dev/posts/rust_unit_testing_assertion_libraries/) | 2025-11-26 |
+| [Humanity Is Stained by the Sins of C and No LLM Can Rewrite Them Away to Rust](https://kirancodes.me/posts/log-sins-of-c.html) | 2025-11-26 |
+| [Rust's Strategic Advantage](https://sysid.github.io/rusts-strategic-advantage/) | 2025-11-25 |
+| [Memory Safety for Skeptics](https://queue.acm.org/detail.cfm?id=3773095) | 2025-11-25 |
+| [Just Call `clone` (Or `alias`)](https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/) | 2025-11-24 |
+| [Inside Rust's `std` and `parking_lot` Mutexes — Who Wins?](https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win) | 2025-11-23 |
+| [Announcing Rust 1.91.0](https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/) | 2025-11-21 |
+| [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/) | 2025-11-21 |
+| [How to Avoid Fighting Rust's Borrow Checker](https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker) | 2025-11-20 |
+| [Explicit Capture Clauses](https://smallcultfollowing.com/babysteps/blog/2025/10/22/explicit-capture-clauses/) | 2025-11-18 |
+| [Recent Rust Changes](https://www.ncameron.org/blog/recent-rust-changes/) | 2025-11-18 |
+| [Closure Captures](https://andwass.github.io/rust/2025/10/23/closure-captures.html) | 2025-11-17 |
 | [Rust Atomics and Locks](https://marabos.nl/atomics/) | 2025-11-16 |
 | [EuroRust 2025: Rewrite, Optimize, Repeat — Our Journey Porting a TrieMap From C to Rust](https://youtu.be/XklFGy3aUX4?si=d2kTZC5XfE6Kun2x) | 2025-11-09 |
 | [Rust Unit Testing: Spy and Dummy Test Doubles](https://jorgeortiz.dev/posts/rust_unit_testing_test_doubles_spy/) | 2025-10-25 |
