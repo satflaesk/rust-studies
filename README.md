@@ -1,5 +1,17 @@
 | Resource | Completed&nbsp;On |
 | :--- | :---: |
+| [New Rust Lint: `function_casts_as_integer`](https://blog.guillaume-gomez.fr/articles/2025-11-28+New+rust+lint%3A+function_casts_as_integer) | 2025-12-09 |
+| [How CRDTs and Rust Are Revolutionizing Distributed Systems and Local-First Applications](https://kerkour.com/rust-crdt) | 2025-12-08 |
+| [In Defense of Lock Poisoning in Rust](https://sunshowers.io/posts/on-poisoning/) | 2025-12-07 |
+| [A Look at Rust From 2012](https://purplesyringa.moe/blog/a-look-at-rust-from-2012/) | 2025-12-05 |
+| [Practical Performance Lessons From Apache DataFusion](https://greptime.com/blogs/2025-11-25-datafusion) | 2025-12-04 |
+| [RustConf 2025: Christian Legnitto Interview](https://youtu.be/monOq_uHHcg?si=jj06kCDl9YIDXmSk) | 2025-12-03 |
+| [Toyota's "Tip of the Spear" Is Choosing Rust](https://filtra.io/rust/interviews/woven-by-toyota-nov-25) | 2025-12-02 |
+| [Interview With Jan David Nose](https://blog.rust-lang.org/2025/11/25/interview-with-jan-david-nose/) | 2025-12-01 |
+| [Switching to Rust's Own Mangling Scheme on Nightly](https://blog.rust-lang.org/2025/11/20/switching-to-v0-mangling-on-nightly/) | 2025-11-30 |
+| [Truly First-Class Custom Smart Pointers](https://nadrieril.github.io/blog/2025/11/11/truly-first-class-custom-smart-pointers.html) | 2025-11-29 |
+| [Pinning Is a Kind of Static Borrow](https://nadrieril.github.io/blog/2025/11/12/pinning-is-a-kind-of-static-borrow.html) | 2025-11-28 |
+| [A Practical Guide to Transitioning to Memory-Safe Languages](https://queue.acm.org/detail.cfm?id=3773096) | 2025-11-27 |
 | [Rust Unit Testing: Assertion Libraries](https://jorgeortiz.dev/posts/rust_unit_testing_assertion_libraries/) | 2025-11-26 |
 | [Humanity Is Stained by the Sins of C and No LLM Can Rewrite Them Away to Rust](https://kirancodes.me/posts/log-sins-of-c.html) | 2025-11-26 |
 | [Rust's Strategic Advantage](https://sysid.github.io/rusts-strategic-advantage/) | 2025-11-25 |
