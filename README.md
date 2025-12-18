@@ -1,5 +1,15 @@
 | Resource | Completed&nbsp;On |
 | :--- | :---: |
+| [Get in Line — Superfast SPSC Queue](https://abhikja.in/blog/2025-12-07-get-in-line/) | 2025-12-18 |
+| [Pydantic: The Python Darling That Loves Rust](https://filtra.io/rust/interviews/pydantic-dec-25) | 2025-12-17 |
+| [How to Speed Up the Rust Compiler in December 2025](https://nnethercote.github.io/2025/12/05/how-to-speed-up-the-rust-compiler-in-december-2025.html) | 2025-12-16 |
+| [The Implicit Magics of Places](https://nadrieril.github.io/blog/2025/12/06/on-places-and-their-magic.html) | 2025-12-15 |
+| [Postfix Macros and `let place`](https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html) | 2025-12-14 |
+| [Lessons Learned From the Rust Vision Doc Process](https://blog.rust-lang.org/2025/12/03/lessons-learned-from-the-rust-vision-doc-process/) | 2025-12-14 |
+| [Lifetime Variance in Rust](https://lifetime-variance.sunshowers.io/index.html) | 2025-12-13 |
+| [Beyond Ctrl-C: The Dark Corners of Unix Signal Handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/) | 2025-12-12 |
+| [Mutation Testing for Librsvg](https://viruta.org/mutation-testing-librsvg.html) | 2025-12-11 |
+| [Cross-Compiling Rust for Raspberry Pi](https://sysdev.me/2025/11/27/cross-compiling-rust-for-raspberry-pi/) | 2025-12-10 |
 | [New Rust Lint: `function_casts_as_integer`](https://blog.guillaume-gomez.fr/articles/2025-11-28+New+rust+lint%3A+function_casts_as_integer) | 2025-12-09 |
 | [How CRDTs and Rust Are Revolutionizing Distributed Systems and Local-First Applications](https://kerkour.com/rust-crdt) | 2025-12-08 |
 | [In Defense of Lock Poisoning in Rust](https://sunshowers.io/posts/on-poisoning/) | 2025-12-07 |
