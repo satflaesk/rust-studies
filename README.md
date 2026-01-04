@@ -1,5 +1,23 @@
 | Resource | Completed&nbsp;On |
 | :--- | :---: |
+| [Why Is Calling My ASM Function From Rust Slower Than Calling It From C?](https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/) | 2026-01-04 |
+| [Investigating and Fixing a Nasty Clone Bug](https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html) | 2026-01-03 |
+| [Open and Closed Universes](https://sunshowers.io/posts/open-closed-universes/) | 2026-01-02 |
+| [Rust Unit Testing: Basic HTTP Testing](https://jorgeortiz.dev/posts/rust_unit_testing_basic_http_srvr/) | 2026-01-01 |
+| [Cargo-coupling: Visualizing Coupling in Rust Projects](https://syu-m-5151.hatenablog.com/entry/2025/12/21/152559) | 2025-12-31 |
+| [What's "new" in Miri (And Also, There's a Miri Paper!)](https://www.ralfj.de/blog/2025/12/22/miri.html) | 2025-12-30 |
+| [Rust's Block Pattern](https://notgull.net/block-pattern/) | 2025-12-29 |
+| [Syntactic Musings on the Fallibility Effect](https://blog.yoshuawuyts.com/syntactic-musings-on-the-fallibility-effect/) | 2025-12-28 |
+| [What Do People Love About Rust?](https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/) | 2025-12-27 |
+| [Positional Memoization Via Proc Macros in a Rust UI Framework](https://tessera-ui.github.io/blog/positional-memoization-via-proc-macros.html) | 2025-12-26 |
+| [Writing a Mockable Filesystem Trait in Rust Without `RefCell`](https://pyk.sh/blog/2025-12-15-writing-mockable-fs-in-rust-without-refcell) | 2025-12-25 |
+| [Stop Losing Intent: Absent, Null, and Value in Rust](https://minikin.me/blog/presence-rs) | 2025-12-24 |
+| [Rust GCC Backend: Why and How](https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how) | 2025-12-23 |
+| [The State of the Kernel Rust Experiment](https://lwn.net/Articles/1050174/) | 2025-12-22 |
+| [Announcing Rust 1.92.0](https://blog.rust-lang.org/2025/12/11/Rust-1.92.0/) | 2025-12-22 |
+| [Emulating avx-512 Intrinsics in Miri](https://trifectatech.org/blog/emulating-avx-512-intrinsics-in-miri/) | 2025-12-21 |
+| [Should We Get Rid of `clippy::manual_try_fold`?](https://blog.veeso.dev/blog/en/should-we-get-rid-of-clippy-manual-try-fold/) | 2025-12-19 |
+| [Fighting the Client Spaghetti Monster With Rust Traits](https://gnunicorn.org/writings/spaghetti-monster-clients-rust-traits-final-boss/) | 2025-12-19 |
 | [Get in Line — Superfast SPSC Queue](https://abhikja.in/blog/2025-12-07-get-in-line/) | 2025-12-18 |
 | [Pydantic: The Python Darling That Loves Rust](https://filtra.io/rust/interviews/pydantic-dec-25) | 2025-12-17 |
 | [How to Speed Up the Rust Compiler in December 2025](https://nnethercote.github.io/2025/12/05/how-to-speed-up-the-rust-compiler-in-december-2025.html) | 2025-12-16 |
