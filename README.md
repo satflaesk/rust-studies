@@ -1,5 +1,25 @@
 | Resource | Completed&nbsp;On |
 | :--- | :---: |
+| [NDC TechTown 2025: Rust Is Not About Memory Safety](https://youtu.be/ngTZN09poqk?si=Usv0g6qRWkNPu8hy) | 2026-01-31 |
+| [What Does It Take to Ship Rust in Safety-Critical?](https://blog.rust-lang.org/2026/01/14/what-does-it-take-to-ship-rust-in-safety-critical/) | 2026-01-30 |
+| [IBM Quantum: Rust Is Real, But Quantum Advantage Is Not (Yet)](https://filtra.io/rust/interviews/ibm-quantum-jan-26) | 2026-01-29 |
+| [Virtual Places and Borrow Checker Integration](https://bennolossin.github.io/blog/field-projections/virtual-places-and-borrowck.html) | 2026-01-29 |
+| [The Algebra of Loans in Rust](https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html) | 2026-01-28 |
+| [Rust Wrapped 2025](https://weeklyrust.substack.com/p/rust-wrapped-2025) | 2026-01-27 |
+| [What Is Maintenance, Anyway?](https://blog.rust-lang.org/inside-rust/2026/01/12/what-is-maintenance-anyway/) | 2026-01-27 |
+| [Ergonomic Async Trait Objects in Rust](https://ebadf.me/blog/ergonomic-async-trait-objects-rust) | 2026-01-26 |
+| [Designing APIs for the Pit of Success](https://www.rodriguez.today/articles/designing-rusty-paseto) | 2026-01-25 |
+| [SIMD Programming in Pure Rust](https://kerkour.com/introduction-rust-simd) | 2026-01-24 |
+| [Stop Forwarding Errors, Start Designing Them](https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/) | 2026-01-24 |
+| [Rust at Scale: Scaleway's Big Bet to Become THE European Hyperscaler](https://filtra.io/rust/interviews/scaleway-jan-26) | 2026-01-23 |
+| [`OnceMap`: Rust Pattern for Running Concurrent Work Exactly Once](https://open.substack.com/pub/codepointer/p/uv-oncemap-rust-pattern-for-running) | 2026-01-22 |
+| [Who Owns the Memory? Part 3: How Big Is Your Type?](https://lukefleed.xyz/posts/who-owns-the-memory-pt3/) | 2026-01-21 |
+| [Who Owns the Memory? Part 2: Who Calls Free?](https://lukefleed.xyz/posts/who-owns-the-memory-pt2/) | 2026-01-16 |
+| [Who Owns the Memory? Part 1: What Is an Object?](https://lukefleed.xyz/posts/who-owns-the-memory-pt1/) | 2026-01-11 |
+| [Even Safer Rust With Miri](https://ianwwagner.com/even-safer-rust-with-miri.html) | 2026-01-09 |
+| [RustConf 2020: Error Handling Isn't All About Errors](https://youtu.be/rAF8mLI0naQ?si=zSM2cH1WSiokXQe9) | 2026-01-08 |
+| [Rust Errors Without Dependencies](https://vincents.dev/blog/rust-errors-without-dependencies/) | 2026-01-07 |
+| [Miri: Practical Undefined Behavior Detection for Rust](https://research.ralfj.de/papers/2026-popl-miri.pdf) | 2026-01-06 |
 | [Why Is Calling My ASM Function From Rust Slower Than Calling It From C?](https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/) | 2026-01-04 |
 | [Investigating and Fixing a Nasty Clone Bug](https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html) | 2026-01-03 |
 | [Open and Closed Universes](https://sunshowers.io/posts/open-closed-universes/) | 2026-01-02 |
