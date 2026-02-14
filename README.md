@@ -1,5 +1,17 @@
 | Resource | Completed&nbsp;On |
 | :--- | :---: |
+| [Error Handling in Rust — A Deep Dive](https://lpalmieri.com/posts/error-handling-rust/) | 2026-02-14 |
+| [How We Interfaced Single-Threaded C++ With Multi-Threaded Rust](https://antithesis.com/blog/2026/rust_cpp/) | 2026-02-11 |
+| [The Hidden Bottleneck: Blocking in Async Rust](https://cong-or.xyz/blocking-async-rust) | 2026-02-09 |
+| [Designing Error Types in Rust Applications](https://home.expurple.me/posts/designing-error-types-in-rust-applications/) | 2026-02-08 |
+| [The Complete Guide to Publishing Your First Rust Crate to Crates.io](https://dev.to/ajitkumar/the-complete-guide-to-publishing-your-first-rust-crate-to-cratesio-14pg) | 2026-02-08 |
+| [`if let` Guard Stabilizing Path](https://kivooeo.github.io/blog/if-let-guard/) | 2026-02-07 |
+| [Atomic Variables Are Not Only About Atomicity](https://sander.saares.eu/2026/01/25/atomic-variables-are-not-only-about-atomicity/) | 2026-02-06 |
+| [Rust at Scale: An Added Layer of Security for WhatsApp](https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/) | 2026-02-03 |
+| [Announcing Rust 1.93.0](https://blog.rust-lang.org/2026/01/22/Rust-1.93.0/) | 2026-02-03 |
+| [Crates.io: Development Update](https://blog.rust-lang.org/2026/01/21/crates-io-development-update/) | 2026-02-02 |
+| [Elegant and Safe Concurrency in Rust With Async Combinators](https://kerkour.com/rust-async-combinators-concurrency) | 2026-02-02 |
+| [Rust's Standard Library on the GPU](https://www.vectorware.com/blog/rust-std-on-gpu/) | 2026-02-01 |
 | [NDC TechTown 2025: Rust Is Not About Memory Safety](https://youtu.be/ngTZN09poqk?si=Usv0g6qRWkNPu8hy) | 2026-01-31 |
 | [What Does It Take to Ship Rust in Safety-Critical?](https://blog.rust-lang.org/2026/01/14/what-does-it-take-to-ship-rust-in-safety-critical/) | 2026-01-30 |
 | [IBM Quantum: Rust Is Real, But Quantum Advantage Is Not (Yet)](https://filtra.io/rust/interviews/ibm-quantum-jan-26) | 2026-01-29 |
