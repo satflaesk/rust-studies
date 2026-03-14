@@ -1,5 +1,31 @@
 | Resource | Completed&nbsp;On |
 | :--- | :---: |
+| [Context-Preserving Error Handling](https://kazlauskas.me/entries/errors) | 2026-03-14 |
+| [Debugging Reproducibility Issues in Rust Software](https://notes.8pit.net/notes/iqfs.html) | 2026-03-13 |
+| [Rust Zero-Cost Abstractions vs. SIMD](https://turbopuffer.com/blog/zero-cost) | 2026-03-13 |
+| [Never Snooze a Future](https://jacko.io/snooze.html) | 2026-03-12 |
+| [Error Handling in Rust](https://burntsushi.net/rust-error-handling/) | 2026-03-11 |
+| [Rust Nation UK: Rust Adoption at Scale With Ubuntu](https://youtu.be/WOA4GA8tAWA?si=UuZ6E0xnaTNpfoDI) | 2026-03-08 |
+| [Rust Nation UK: Beyond Safety and Speed — How Rust Fuels Team Productivity](https://youtu.be/QrrH2lcl9ew?si=3AkXBajfjBTEh4MW) | 2026-03-08 |
+| [About Memory Pressure, Lock Contention, and Data-Oriented Design](https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/) | 2026-03-05 |
+| [Achieving Zero Bugs: Rust, Specs, and AI Coding](https://www.borg.org/?p=1472) | 2026-03-02 |
+| [Read Locks Are Not Your Friends](https://eventual-consistency.vercel.app/posts/write-locks-faster) | 2026-03-02 |
+| [What It Means That Ubuntu Is Using Rust](https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/) | 2026-03-01 |
+| [Error Handling in Rust](https://nrc.github.io/error-docs/) | 2026-02-28 |
+| [In Rust, Ordinary Vectors Are Values](https://smallcultfollowing.com/babysteps/blog/2018/02/01/in-rust-ordinary-vectors-are-values/) | 2026-02-23 |
+| [Visualizing Persistent Vectors With Rust and WebAssembly](https://abishov.com/blog/pvec-rs-visualizing-structural-sharing/) | 2026-02-23 |
+| [`async`/`await` on the GPU](https://www.vectorware.com/blog/async-await-on-gpu/) | 2026-02-22 |
+| [Borrow Checking, Escape Analysis, and the Generational Hypothesis](https://steveklabnik.com/writing/borrow-checking-escape-analysis-and-the-generational-hypothesis/) | 2026-02-22 |
+| [Rust Needs an Extended Standard Library](https://kerkour.com/rust-stdx) | 2026-02-21 |
+| [How Rust and Its Compiler Have Revolutionized Software Engineering and Reliability](https://kerkour.com/rust-software-engineering-reliability) | 2026-02-21 |
+| [Modular Errors in Rust](https://sabrinajewson.org/blog/errors) | 2026-02-20 |
+| [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) | 2026-02-18 |
+| [Scaling Rust Builds With Bazel](https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel) | 2026-02-18 |
+| [Designing Error Types in Rust](https://mmapped.blog/posts/12-rust-error-handling) | 2026-02-18 |
+| [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) (second read) | 2026-02-17 |
+| [Deploying Rust to Production Checklist](https://kerkour.com/rust-production-checklist) | 2026-02-16 |
+| [Borrowed Tuple Indexing for `HashMap`](https://traxys.me/tuple_borrow.html) | 2026-02-15 |
+| [What's So Great About Rust?](https://bitfieldconsulting.com/posts/why-rust) | 2026-02-15 |
 | [Error Handling in Rust — A Deep Dive](https://lpalmieri.com/posts/error-handling-rust/) | 2026-02-14 |
 | [How We Interfaced Single-Threaded C++ With Multi-Threaded Rust](https://antithesis.com/blog/2026/rust_cpp/) | 2026-02-11 |
 | [The Hidden Bottleneck: Blocking in Async Rust](https://cong-or.xyz/blocking-async-rust) | 2026-02-09 |
