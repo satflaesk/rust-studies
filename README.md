@@ -1,5 +1,75 @@
 | Resource | Completed&nbsp;On |
 | :--- | :---: |
+| [Rust's God Mode](https://youtu.be/VIsKIzFz_zA?si=7kADXfpAGoIcXuRR) | 2026-05-24 |
+| [Lessons Learned Building a High-Performance Rust Profiler](https://pawelurbanek.com/rust-performance-profiling) | 2026-05-23 |
+| [Oops, ~Cubic~ Exponential Macro!](https://bal-e.org/blog/2026/oops-cubic-macro/) | 2026-05-22 |
+| [Killing a `Cow` Made My JSON Formatter 42% Faster](https://jacobasper.com/blog/killing-a-cow-made-my-json-formatter-42-percent-faster/) | 2026-05-21 |
+| [The `Sync` Bound Nobody Asked For](https://verrchu.github.io/blog/1-the-sync-bound-nobody-asked-for/) | 2026-05-20 |
+| [Async Rust Never Left the MVP State](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state) | 2026-05-19 |
+| [Your Clippy Config Should Be Stricter-er](https://billylevin.dev/posts/clippy-config/) | 2026-05-18 |
+| [Your Clippy Config Should Be Stricter](https://emschwartz.me/your-clippy-config-should-be-stricter/) | 2026-05-17 |
+| ["Respectful" YAML Patching in Rust](https://verrchu.github.io/blog/2-respectful-yaml-patching-in-rust/) | 2026-05-16 |
+| [The Limits of Rust, or Why You Should Probably Not Follow Amazon, Cloudflare, and Discord](https://kerkour.com/the-limits-of-rust) | 2026-05-16 |
+| [Where the Sun Keeps Shinin': The Provider Pattern in Rust](https://bitfieldconsulting.com/posts/sun-keeps-shinin) | 2026-05-16 |
+| [Rust Foundation and Package Registry Leaders Unite to Address Open Source Sustainability Crisis](https://rustfoundation.org/media/rust-foundation-and-package-registry-leaders-unite-to-address-open-source-sustainability-crisis/) | 2026-05-16 |
+| [Cross-Platform Rust: Analyzing How WhatsApp, Signal, and Others Are Shipping Rust to Billions of Devices](https://kerkour.com/rust-cross-platform-apps) | 2026-05-15 |
+| [Criterion.rs Documentation](https://criterion-rs.github.io/book/criterion_rs.html) | 2026-05-14 |
+| [RustConf 2025: Adapting Rust at Rivian Cars — Coolest Tech to the Next-Gen EVs](https://youtu.be/3RIxy9YE-Yk?si=bGNzhpQDJ_WfCZEM) | 2026-05-10 |
+| [RustConf 2025: Jan David Nose Interview](https://youtu.be/r7i-2wHtNjw?si=oqVlLfTXU0KMoDDU) | 2026-05-09 |
+| [How to Benchmark Rust Code With Criterion](https://bencher.dev/learn/benchmarking/rust/criterion/) | 2026-05-05 |
+| [RustConf 2022: Bootstrapping — The Once and Future Compiler](https://youtu.be/oUIjG-y4zaA?si=W0-0uODS75q86Vaj) | 2026-05-04 |
+| [Bugs Rust Won't Catch](https://corrode.dev/blog/bugs-rust-wont-catch/) | 2026-05-03 |
+| [A Gopher Meets a Crab](https://miren.dev/blog/gopher-meets-crab) | 2026-05-02 |
+| [Caching Expensive Functions in Rust](https://kocharhook.com/post/5/caching-expensive-functions-in-rust/) | 2026-05-01 |
+| [The Edge of Safe Rust](https://kyju.org/blog/tokioconf-2026/) | 2026-04-30 |
+| [All Databases Will Eventually Be (Re)Written in Rust](https://kerkour.com/rust-databases) | 2026-04-30 |
+| [Cryptographic Right Answers: Post Quantum Edition](https://kerkour.com/post-quantum-cryptography-recommendations-rust) | 2026-04-29 |
+| [What Happens When You Build an Inode-Style Vector in Rust](https://sot.dev/inode-style-vector-in-rust.html) | 2026-04-28 |
+| [Ownership and Borrowing versus Reference Counting](https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html) | 2026-04-27 |
+| [Announcing Rust 1.95.0](https://blog.rust-lang.org/2026/04/16/Rust-1.95.0/) | 2026-04-27 |
+| [Serde Documentation](https://serde.rs/) | 2026-04-26 |
+| [Debloat Your Async Rust](https://tweedegolf.nl/en/blog/235/debloat-your-async-rust) | 2026-04-23 |
+| [Bringing Rust to the Pixel Baseband](https://blog.google/security/bringing-rust-to-the-pixel-baseband/) | 2026-04-21 |
+| [Flat Error Codes Are Not Enough](https://home.expurple.me/posts/flat-error-codes-are-not-enough/) | 2026-04-21 |
+| [Infrastructure Team 2026 Q1 Recap and Q2 Plan](https://blog.rust-lang.org/inside-rust/2026/04/14/infrastructure-team-q1-recap-and-q2-plan/) | 2026-04-20 |
+| [Borrow-Checking Surprises](https://www.scattered-thoughts.net/writing/borrow-checking-surprises/) | 2026-04-20 |
+| [Everything Should Be Typed: Scalar Types Are Not Enough](https://sot.dev/everything-should-be-typed.html) | 2026-04-19 |
+| [Rust Should Have Stable Tail Calls](https://trifectatech.org/blog/tail-calls-project-goal/) | 2026-04-18 |
+| [No One Owes You Supply-Chain Security](https://purplesyringa.moe/blog/no-one-owes-you-supply-chain-security/) | 2026-04-18 |
+| [Surelock](https://notes.brooklynzelenka.com/blog/surelock/) | 2026-04-17 |
+| [Rust Foundation Interop Initiative Update: From Research to Implementation](https://rustfoundation.org/media/rust-foundation-interop-initiative-update-from-research-to-implementation/) | 2026-04-16 |
+| [Supply Chain Nightmare: How Rust Will Be Attacked and What We Can Do to Mitigate the Inevitable](https://kerkour.com/rust-supply-chain-nightmare) | 2026-04-15 |
+| [How uv Works Under the Hood](https://noos.blog/posts/uv-how-it-works-under-the-hood/) | 2026-04-14 |
+| [Callgraph Analysis](https://ferrous-systems.com/blog/callgraph-analysis/) | 2026-04-12 |
+| [Changes to WebAssembly Targets and Handling Undefined Symbols](https://blog.rust-lang.org/2026/04/04/changes-to-webassembly-targets-and-handling-undefined-symbols/) | 2026-04-11 |
+| [Docs.rs: Building Fewer Targets by Default](https://blog.rust-lang.org/2026/04/04/docsrs-only-default-targets/) | 2026-04-11 |
+| [Rust's Next-Generation Trait Solver](https://lwn.net/Articles/1063124/) | 2026-04-10 |
+| [I Ported the OpenAI Python SDK to Rust in 5 Days With Claude Code — Here's What I Learned](https://dev.to/fortunto2/squeezing-every-millisecond-from-the-openai-api-in-rust-4b11) | 2026-04-09 |
+| [Breaking the AI Infra Monopoly With Rust: Tracel AI](https://filtra.io/rust/interviews/tracel-mar-26) | 2026-04-09 |
+| [How Rust Prevents Data Races](https://medium.com/codex/eda-needs-to-be-using-rust-pt-2-59d2263ebb03) | 2026-04-06 |
+| [Bugs That the Rust Compiler Catches for You: The revolution of Compiler-Enforced Correctness](https://kerkour.com/rust-compiler-correctness-bugs) | 2026-04-06 |
+| [Fixing Our Own Problems in the Rust Compiler](https://trifectatech.org/blog/fixing-our-own-problems-in-the-rust-compiler/) | 2026-04-05 |
+| [The Good, the Bad, and the Leaky: jemalloc, bumpalo, and mimalloc in Meilisearch](https://blog.kerollmops.com/the-good-the-bad-and-the-leaky-jemalloc-bumpalo-and-mimalloc-in-meilisearch) | 2026-04-04 |
+| [Matching Puzzle Pieces and Disappointing Benchmarks](https://llogiq.github.io/2026/03/20/case.html) | 2026-04-04 |
+| [An Incoherent Rust](https://www.boxyuwu.blog/posts/an-incoherent-rust/) | 2026-04-03 |
+| [Let's See Paul Allen's SIMD CSV Parser](https://chunkofcoal.com/posts/simd-csv/) | 2026-04-02 |
+| [Maximally Minimal View Types](https://smallcultfollowing.com/babysteps/blog/2026/03/21/view-types-max-min/) | 2026-04-01 |
+| [Rust Threads on the GPU](https://www.vectorware.com/blog/threads-on-gpu/) | 2026-03-31 |
+| [What We Heard About Rust's Challenges](https://blog.rust-lang.org/2026/03/20/rust-challenges/) | 2026-03-30 |
+| [Rust for Foundation Software](https://youtu.be/ZmIiYFpr2es?si=s7yxaNVtnyncaFDB) | 2026-03-29 |
+| [Accessing Hardware in Rust](https://ferrous-systems.com/blog/hardware-access-rust/) | 2026-03-28 |
+| [Call for Testing: Build Dir Layout v2](https://blog.rust-lang.org/2026/03/13/call-for-testing-build-dir-layout-v2/) | 2026-03-26 |
+| [How to Use Storytelling to Fit Inline Assembly Into Rust](https://www.ralfj.de/blog/2026/03/13/inline-asm.html) | 2026-03-25 |
+| [Building Small and Secure Docker Images for Rust: Scratch vs. Alpine vs. Debian](https://kerkour.com/rust-docker-small-secure-images) | 2026-03-24 |
+| [Rust Project Perspectives on AI](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/intro.html) | 2026-03-23 |
+| [How to Stop Fighting With Coherence and Start Writing Context-Generic Trait Impls](https://youtu.be/gXIfP-W9074?si=w4KYiWByeGLX5ntK) | 2026-03-22 |
+| [Curl With Daniel Stenberg](https://corrode.dev/podcast/s02e01-curl/) | 2026-03-21 |
+| [My Rust Dev Setup in 2026](https://bitfieldconsulting.com/posts/rust-dev-tools) | 2026-03-20 |
+| [Write Small Rust Scripts](https://llogiq.github.io/2026/03/05/auto.html) | 2026-03-20 |
+| [The Cost of Indirection in Rust](https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/) | 2026-03-19 |
+| [The State of Allocators in 2026](https://cetra3.github.io/blog/state-of-allocators-2026/) | 2026-03-18 |
+| [Announcing Rust 1.94.0](https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/) | 2026-03-16 |
+| [Error Handling in a Correctness-Critical Rust Project](https://sled.rs/errors.html) | 2026-03-15 |
 | [Context-Preserving Error Handling](https://kazlauskas.me/entries/errors) | 2026-03-14 |
 | [Debugging Reproducibility Issues in Rust Software](https://notes.8pit.net/notes/iqfs.html) | 2026-03-13 |
 | [Rust Zero-Cost Abstractions vs. SIMD](https://turbopuffer.com/blog/zero-cost) | 2026-03-13 |
@@ -252,7 +322,7 @@
 | [Programming Language: Rust 2024 Is the Most Comprehensive Edition to Date](https://www.heise.de/en/background/Programming-language-Rust-2024-is-the-most-comprehensive-edition-to-date-10393917.html) | 2025-06-03 |
 | [Sguaba: Hard-to-Misuse Rigid Body Transforms for Engineers With Other Things to Worry About Than Linear Algebra](https://blog.helsing.ai/sguaba-hard-to-misuse-rigid-body-transforms-for-engineers-with-other-things-to-worry-about-than-aeaa45af9e0d) | 2025-06-03 |
 | [Demoting `i686-pc-windows-gnu` to Tier 2](https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/) | 2025-06-02 |
-| [`async`/`await` Versus the Calloop Model](https://notgull.net/calloop/) | 2025-05-30 |
+| [`async`/`await` versus the Calloop Model](https://notgull.net/calloop/) | 2025-05-30 |
 | [Joining Threads Immediately as They Finish in Rust](https://jpmelos.com/posts/joining-multiple-rust-threads/) | 2025-05-29 |
 | [Disable Debug Info to Improve Rust Compile Times](https://kobzol.github.io/rust/rustc/2025/05/20/disable-debuginfo-to-improve-rust-compile-times.html) | 2025-05-29 |
 | [For Your Eyes Only: User-Friendly Errors in Rust](https://bitfieldconsulting.com/posts/for-your-eyes-only) | 2025-05-27 |
