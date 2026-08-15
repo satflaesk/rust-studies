@@ -1,5 +1,62 @@
 | Resource | Completed&nbsp;On |
 | :--- | :---: |
+| [How to Avoid Bounds Checks in Rust (Without `unsafe`!)](https://shnatsel.medium.com/how-to-avoid-bounds-checks-in-rust-without-unsafe-f65e618b4c1e) | 2026-08-10 |
+| [How to Speed Up the Rust Compiler in July 2026](https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html) | 2026-08-10 |
+| [`rust-lang/rust` Is Adopting an LLM Policy](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/) | 2026-08-07 |
+| [Enabling the Next Iteration of the Borrow Checker on Nightly](https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/) | 2026-08-07 |
+| [The Bedrock of Software Design](https://alex.draftist.io/blog/the-bedrock-of-software-design-ycqvcedsj) | 2026-08-07 |
+| [Improving `std::simd::swizzle_dyn`](https://shnatsel.github.io/improving-std-simd-swizzle-dyn/) | 2026-08-05 |
+| [Query Cycles: A Compiler Murder Mystery](https://ferrous-systems.com/blog/query-cycles-a-compiler-murder-mystery/) | 2026-08-04 |
+| [Memory Safety Absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/) | 2026-08-03 |
+| [Rust Release Changelog — 1.97.0](https://youtu.be/lUoQ3uGSQA0?si=QjIn0cX7o1s4OmWx) | 2026-08-02 |
+| [Rust Service Hardening and Production Checklist](https://kerkour.com/rust-service-hardening-and-production-checklist) | 2026-07-30 |
+| [Reading a Rust Crate's Capabilities Out of Its Compiled Symbols](https://dev.to/booyaka101/reading-a-rust-crates-capabilities-out-of-its-compiled-symbols-58pb) | 2026-07-30 |
+| [Hardening Rust Code for Production](https://corrode.dev/blog/hardening-rust/) | 2026-07-29 |
+| [Capture Clauses as Effects](https://blog.yoshuawuyts.com/capture-clauses-as-effects) | 2026-07-25 |
+| [Battery Packs: Let's Talk About Crates, Baby](https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/) | 2026-07-25 |
+| [What I Learned Building a Self-Corrupting File Format in Rust](https://www.aravpanwar.com/writing/building-decayfmt-in-rust/) | 2026-07-22 |
+| [Faster Rust tests in CI with parallel steps](https://abundance.build/blog/2026-07-11-faster-rust-tests-in-ci-with-parallel-steps/) | 2026-07-21 |
+| [Come Async You Are](https://corentin-core.github.io/posts/ruxe-async-runtime-agnostic/) | 2026-07-21 |
+| [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust) | 2026-07-20 |
+| [Crates.io: Development Update](https://blog.rust-lang.org/2026/07/13/crates-io-development-update/) | 2026-07-19 |
+| [Announcing Rust 1.97.0](https://blog.rust-lang.org/2026/07/09/Rust-1.97.0/) | 2026-07-19 |
+| [Investigating Why RustCrypto Is Slow: Deep-Dive Into SIMD Instructions and Hardware Acceleration](https://kerkour.com/rustcrypto-slow-simd-rust) | 2026-07-18 |
+| [Rust Patterns and Engineering How-Tos](https://microsoft.github.io/RustTraining/rust-patterns-book/) | 2026-07-17 |
+| [Work in Progress Rust](https://blog.dureuill.net/articles/wip/) | 2026-07-13 |
+| [It's Not Me, It's the Compiler!](https://parsa.wtf/cast/) | 2026-07-13 |
+| [OpenAI Just Spent $600K on Rust](https://youtu.be/Fk165jYfHpc?si=6DA-121lCNw7jARR) | 2026-07-12 |
+| [The Unglamorous Side of Rust Web Development](https://blog.jetbrains.com/rust/2026/06/25/rust-web-development-2026/) | 2026-07-08 |
+| [Your Rust Service Isn't Leaking — It Could Be the Allocator](https://pranitha.dev/posts/rust-and-memory-allocators/) | 2026-07-07 |
+| [High-Performance Rust: Understanding and Eliminating Heap Fragmentation](https://kerkour.com/rust-high-performance-memory-fragmentation-allocations) | 2026-07-07 |
+| [A Novel Look at Error Handling in Rust](https://jtjlehi.github.io/2026/06/25/novel-rust-error-handling.html) | 2026-07-06 |
+| [Hoisting Expressions](https://blog.yoshuawuyts.com/hoisting-expressions) | 2026-07-05 |
+| [The Many Journeys of Learning Rust](https://blog.rust-lang.org/2026/06/25/vision-doc-journeys-to-learning-rust/) | 2026-07-04 |
+| [How We Found a Bug in the Hyper HTTP Library](https://blog.cloudflare.com/hyper-bug/) | 2026-06-30 |
+| [Redmond's Radical Rust Rewrite Rowback](https://www.thestack.technology/rewriting-windows-in-rust/) | 2026-06-29 |
+| [Rewriting the World in Rust](https://bitfieldconsulting.com/posts/rewrite-in-rust) | 2026-06-29 |
+| [EuroRust 2025: What Actually Are Attributes?](https://youtu.be/zglja1i709Q?si=OvandGrfkUPGTPje) | 2026-06-28 |
+| [Safe SIMD in Rust, Even on the Inside](https://shnatsel.medium.com/safe-simd-in-rust-even-on-the-inside-c6f1ff381828) | 2026-06-27 |
+| [Rust Commercial Network Launches to Bring Commercial Users of Rust Language Together](https://rustfoundation.org/media/rust-commercial-network-launches-to-bring-commercial-users-of-rust-language-together/) | 2026-06-27 |
+| [Why stdx is not on crates.io](https://kerkour.com/stdx-cratesio) | 2026-06-22 |
+| [Zlib-rs in Firefox](https://trifectatech.org/blog/zlib-rs-in-firefox/) | 2026-06-22 |
+| [Rust Prevents Data Races, Not Race Conditions](https://corrode.dev/blog/rust-prevents-data-races-not-race-conditions/) | 2026-06-21 |
+| [There Is Life Before `main` in Rust](https://grack.com/blog/2026/06/11/life-before-main/) | 2026-06-20 |
+| [Announcing stdx, Rust's Extended Standard Library: Simplicity, Performance, and Supply Chain Security for Everyone](https://kerkour.com/stdx) | 2026-06-16 |
+| [`only` Bounds](https://smallcultfollowing.com/babysteps/blog/2026/06/09/only-bounds/) | 2026-06-15 |
+| [How Josh Helps Rust Manage Code Across Multiple Repositories](https://blog.rust-lang.org/inside-rust/2026/06/04/how-josh-helps-rust-manage-code-across-multiple-repositories/) | 2026-06-14 |
+| [Migrating From Python to Rust](https://corrode.dev/learn/migration-guides/python-to-rust) | 2026-06-13 |
+| [Nine Ways to Do Inheritance in Rust, a Language Without Inheritance](https://medium.com/@carlmkadie/nine-ways-to-do-inheritance-in-rust-a-language-without-inheritance-14825bf1e215) | 2026-06-10 |
+| [Memory Safety Is a Matter of Life and Death](https://joshlf.com/posts/memory-safety-life-and-death/) | 2026-06-08 |
+| [The Slowdown That Doesn't Show Up in Profiles](https://cong-or.xyz/false-sharing-cache-lines) | 2026-06-06 |
+| [Keep Calm and Embrace (Rust) Monorepos](https://kerkour.com/rust-monorepos) | 2026-06-02 |
+| [Laissez-Faire Errors](https://hemomorphic.alexblood.net/posts/laissez-faire-errors/) | 2026-06-01 |
+| [Noroboto: Lying Fonts and Mitigation in Rust](https://tritium.legal/blog/noroboto) | 2026-06-01 |
+| [The Reflex of Deriving Serde Traits](https://verrchu.github.io/blog/3-the-reflex-of-deriving-serde-traits/) | 2026-05-31 |
+| [5x Faster `fast_blur` in Image-rs](https://apas.tel/blog/optimizing-image-rs-blur) | 2026-05-30 |
+| [Learn Rust Lifetimes by Building a Generic LRU Cache](https://blog.sheerluck.dev/posts/learn-rust-lifetimes-by-building-a-lru-cache/) | 2026-05-29 |
+| [How Rust Engineered the Perfect Async Runtime](https://youtu.be/FUg1y-yv6cs?si=-mBYPE0TDIMOcNLd) | 2026-05-28 |
+| [Migrating From Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/) | 2026-05-27 |
+| [Scaling Rust Codebases: Lessons Learned Organizing Large Projects and Managing Errors](https://kerkour.com/rust-organize-large-projects-code-error-handling) | 2026-05-25 |
 | [Rust's God Mode](https://youtu.be/VIsKIzFz_zA?si=7kADXfpAGoIcXuRR) | 2026-05-24 |
 | [Lessons Learned Building a High-Performance Rust Profiler](https://pawelurbanek.com/rust-performance-profiling) | 2026-05-23 |
 | [Oops, ~Cubic~ Exponential Macro!](https://bal-e.org/blog/2026/oops-cubic-macro/) | 2026-05-22 |
@@ -173,7 +230,7 @@
 | [Rust's Strategic Advantage](https://sysid.github.io/rusts-strategic-advantage/) | 2025-11-25 |
 | [Memory Safety for Skeptics](https://queue.acm.org/detail.cfm?id=3773095) | 2025-11-25 |
 | [Just Call `clone` (Or `alias`)](https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/) | 2025-11-24 |
-| [Inside Rust's `std` and `parking_lot` Mutexes — Who Wins?](https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win) | 2025-11-23 |
+| [Inside Rust's std and parking_lot Mutexes — Who Wins?](https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win) | 2025-11-23 |
 | [Announcing Rust 1.91.0](https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/) | 2025-11-21 |
 | [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/) | 2025-11-21 |
 | [How to Avoid Fighting Rust's Borrow Checker](https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker) | 2025-11-20 |
