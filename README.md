@@ -1,5 +1,28 @@
 | Resource | Completed&nbsp;On |
 | :--- | :---: |
+| [How I Made Rustdoc 33% Faster in One Week](https://noahlev.org/blog/2026/08/27/making-rustdoc-faster/) | 2026-09-05 |
+| [How the Rust Standard Library Verification Contest Scaled Past Manual Proof Engineering](https://rustfoundation.org/media/how-the-rust-standard-library-verification-contest-scaled-past-manual-proof-engineering/) | 2026-09-05 |
+| [Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust](https://bughunters.google.com/blog/scaling-memory-safety) | 2026-09-03 |
+| [`cargo-semver-checks` README](https://github.com/obi1kenobi/cargo-semver-checks/blob/main/README.md) | 2026-09-02 |
+| [Fixing Rust's Supply Chain Security: The Good, the Bad, and the Ugly](https://kerkour.com/fixing-rust-supply-chain-security) | 2026-09-02 |
+| [Rust Function Overloading — Call for Experimentation](https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/) | 2026-09-01 |
+| [Enabling the Next-Generation Trait Solver on Nightly](https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/) | 2026-08-31 |
+| [Inline in Rust](https://matklad.github.io/2021/07/09/inline-in-rust.html) | 2026-08-30 |
+| [The Lint That Would Have Caught It Is Off by Default](https://ai2rules.dev/blog/the-lint-that-was-off-by-default/) | 2026-08-28 |
+| [Protecting the Rust Standard Library From Accidental Breakage](https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/) | 2026-08-27 |
+| [Four Levels of In-Place Initialization](https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/) | 2026-08-27 |
+| [I Want `extern "fil-c"`](https://domenkozar.com/2026/08/13/i-want-extern-fil-c/) | 2026-08-26 |
+| [Experiment in Reducing Target Directory Size on Nightly](https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/) | 2026-08-26 |
+| [`cargo-mutants` Documentation](https://mutants.rs/) | 2026-08-25 |
+| [Bridging Fuzzing and Property Testing](https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing) | 2026-08-23 |
+| [Proptest Documentation](https://proptest-rs.github.io/proptest/) | 2026-08-22 |
+| [Downcasting `Arc`s in Rust](https://ashdnazg.github.io/articles/26/Downcasting-Arcs-in-Rust) | 2026-08-21 |
+| [PoC for Universal Hardware-in-the-Loop HAL Test Suite](https://tweedegolf.nl/en/blog/240/PoC-for-universal-hardware-in-the-loop-HAL-test-suite/) | 2026-08-21 |
+| [`RangeFrom`, Part 1: History and Background](https://erk.dev/2026/08/12/rangefrom-part-1) | 2026-08-20 |
+| [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/) | 2026-08-19 |
+| [Cylic Trait Implementations: Motivation](https://smallcultfollowing.com/babysteps/blog/2026/08/10/cyclic-trait-solving/) | 2026-08-19 |
+| [A Vision for Cargo](https://epage.github.io/blog/2026/08/cargo-vision/) | 2026-08-18 |
+| [Call for Testing: Restricting Trait Implementability and Field Mutability](https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/) | 2026-08-17 |
 | [How to Avoid Bounds Checks in Rust (Without `unsafe`!)](https://shnatsel.medium.com/how-to-avoid-bounds-checks-in-rust-without-unsafe-f65e618b4c1e) | 2026-08-10 |
 | [How to Speed Up the Rust Compiler in July 2026](https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html) | 2026-08-10 |
 | [`rust-lang/rust` Is Adopting an LLM Policy](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/) | 2026-08-07 |
